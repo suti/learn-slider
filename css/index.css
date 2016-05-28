@@ -1,0 +1,18 @@
+#content{
+    /*width:1090px;*/
+    margin: 0 auto;
+    position: relative;
+}
+.con-img{
+    /*position:absolute;*/
+    float: left;
+    padding: 10px;
+    border:1px solid #ccc;
+    box-shadow: 0 0 6px #ccc;
+    border-radius: 5px;
+    /*margin: 0 4px;*/
+}
+.con-img img{
+    width: 196px;
+    height: auto;
+}
